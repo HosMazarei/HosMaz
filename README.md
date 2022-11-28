@@ -1,8 +1,8 @@
-[![MasterHead](https://www.resortdata.com/wp-content/uploads/2018/02/im-bg-big-data-analytics-banner-high-1700x425-jpg.jpg)]
+![MasterHead](https://www.resortdata.com/wp-content/uploads/2018/02/im-bg-big-data-analytics-banner-high-1700x425-jpg.jpg)
 
 <h1 align="center">Hi 👋, I'm Hos Mazarei</h1>
 <h3 align="center">A passionate Data Analyst/ Business Analyst (Slovenia)</h3>
-(img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--32Hnc0mL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2zs4hb7x23zv5cgiro7z.gif")
+<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19020c997c25514d17d86f/6123eeadd1c080239dd39956_Setup%20Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosmazarei&label=Profile%20views&color=0e75b6&style=flat" alt="hosmazarei" /> </p>
 
